@@ -1,5 +1,4 @@
 # Projet de Coloration de graphe HADDAD Gatien, POINTEAU Gabrielle
-Voir le rapport pour plus de détails.
 
 **Lancement automatique**
 
