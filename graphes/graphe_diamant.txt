@@ -1,0 +1,17 @@
+c FILE: graphe_diamant
+c
+c DESCRIPTION: Un graphe qui ressemble à un diamant
+c 
+p edge 6 12
+e 1 2
+e 1 3
+e 1 5
+e 1 6
+e 2 3
+e 2 4
+e 2 6
+e 3 4
+e 3 5
+e 4 5
+e 4 6
+e 5 6
